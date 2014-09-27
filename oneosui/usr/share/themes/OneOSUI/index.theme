@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=InfinityUI
+Comment=Theme of Infinity OS
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=InfinityUI
+MetacityTheme=InfinityUI
+ButtonLayout=:minimize,maximize,close
